@@ -8,7 +8,7 @@ int main() {
 
     // calculating sum
     sum = number1 + number2;      
-    
+    printf("addition of two numbers");
     printf("%d + %d = %d", number1, number2, sum);
     return 0;
 }
